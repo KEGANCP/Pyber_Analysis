@@ -4,7 +4,7 @@
 V. Isualize, CEO of Pyber (a rideshare company) has enlisted my expertise with compiling data utilizing [city data](https://github.com/KEGANCP/Pyber_Analysis/blob/main/Resources/city_data.csv) and [ride data](https://github.com/KEGANCP/Pyber_Analysis/blob/main/Resources/ride_data.csv) from preceding rides. Upon presenting my initial data visualizations comparing ride data between Rural, Urban, and Suburban locations, I was tasked to provide further visuals comparing this data within a set timeframe. 
 - - - -
 ## Analysis Results
-Utilizing the below dataframe, we can conlcude while Urban areas have the most "Total Rides", and "Total Drivers", they have the lowest "Average Fare Per Ride", and "Average Fare Per Driver".
+Utilizing the below dataframe, we can conlcude while Urban areas have the most "Total Rides", and "Total Drivers", they have both the lowest "Average Fare Per Ride", and "Average Fare Per Driver".
 
 #### Pyber Data Summary
 ![This is an image](https://github.com/KEGANCP/Pyber_Analysis/blob/main/Resources/pyber_summary_df.png)
